@@ -1,4 +1,4 @@
-p{
+.slide p{
 	z-index: 10000;
 	font-size: 100px;
 	text-align: center;
@@ -8,7 +8,12 @@ p{
 	color: white;
 	font-family: 'Work Sans' sans-serif;
 }
-
+footer {
+    text-align: center;
+    
+    color: aliceblue;
+    font-size: 48px;
+}
 header {
     background-color: #375aa7;
     height: 100px;
@@ -59,7 +64,7 @@ html {
     border-radius: 5px;
 }
 body {
-    margin: 0;
+    margin: 5px;
     background: #222;
     font-family: 'Work Sans' sans-serif;
     font-weight: 400;
