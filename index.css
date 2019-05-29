@@ -10,11 +10,11 @@ p{
 }
 
 header {
-    background-color: darkgray;
+    background-color: #375aa7;
     height: 100px;
     width: 100%;
     border-bottom: 10px;
-    border-bottom-color: black;
+    border-bottom-color: #4e5b70;
 }
 #logo {
     padding: 10px;
@@ -25,11 +25,11 @@ header {
 #magicraft_title {
     text-align: center;
     font-size: 80px;
-    color: #1B0A2A;
+    color: #ff00f0;
     position: relative;
     padding-top: -50px;
     top: -155px;
-    font-family: Impact;
+    font-family:'Suez One', serif;
     
 }
 html {
